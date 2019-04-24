@@ -1,0 +1,9 @@
+@echo off
+echo ...
+echo ...
+echo ...
+
+python D:\#workspace\Network\Netlaunch.py
+echo µÇÂ¼³É¹¦
+
+pause
